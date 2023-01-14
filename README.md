@@ -10,3 +10,7 @@
 
 <h3><b><i>🏆 Github Trophies :</i></b></h3>
 <a href="https://github.com/Demon-Cyber-404"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Demon-Cyber-404&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<img src="https://profile-counter.glitch.me/Demon-Cyber-404/count.svg" alt="Visitors">
+<a href="https://github.com/Demon-Cyber-404"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
