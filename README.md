@@ -24,6 +24,37 @@
 <h3><b><i>🏆 Github Trophies :</i></b></h3>
 <a href="https://github.com/Demon-Cyber-404"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Demon-Cyber-404&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝚄𝙼𝙸𝚃 𝙸𝚂𝙻𝙰𝙼 𝙷𝙸𝙼𝚄
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙼𝚄𝙼𝙸𝚃 𝙸𝚂𝙻𝙰𝙼 𝙷𝙸𝙼𝚄](https://www.facebook.com/Oopss.error)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝙾𝚄𝙿 :- [𝚃𝙴𝚁𝙼𝚄𝚇 𝙷𝙰𝙲𝙺𝙴𝚁 𝚃𝙴𝙰𝙼 𝙱𝙳](https://www.facebook.com/groups/termuxhackerteam/)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝙼𝚄𝙼𝙸𝚃 𝙸𝚂𝙻𝙰𝙼 𝙷𝙸𝙼𝚄](https://www.instagram.com/mumit_islam)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙱𝚁𝙾𝚃𝙷𝙴𝚁 𝚃𝙴𝙲𝙷 𝟷𝙼](https://www.youtube.com/channel/UC9HbxanhTz5los0mNEClRyA)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
 <h3><b><i> Profile Visitor :</i></b></h3>
 <a href="https://github.com/Demon-Cyber-404"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Demon-Cyber-404&color=blueviolet&style=flat-square"></a>
 
