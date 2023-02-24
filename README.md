@@ -10,15 +10,15 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙳𝙴𝙼𝙾𝙽-𝙲𝚈𝙱𝙴𝚁-𝟺𝟶𝟺;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Demon-Cyber-404"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Demon-Cyber-404&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/MUMIT-404-CYBER"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Demon-Cyber-404/count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -47,7 +47,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝙾𝚄𝙿 :- [𝙳𝙴𝙼𝙾𝙽-𝙲𝚈𝙱𝙴𝚁 𝚃𝙴𝚁𝙼𝚄𝚇 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚆𝙾𝚁𝙻𝙳](https://www.facebook.com/groups/termuxhackerteam/)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝙾𝚄𝙿 :- [𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃 𝙱𝙾𝚈 𝚃𝙴𝚁𝙼𝚄𝚇 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚆𝙾𝚁𝙻𝙳](https://facebook.com/groups/termuxteambd/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -61,6 +61,6 @@
 
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/Demon-Cyber-404"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://github.com/MUMIT-404-CYBER"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
